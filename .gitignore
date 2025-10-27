@@ -1,0 +1,8 @@
+# macOS Systemdatei
+.DS_Store
+
+# Obsidian Cache
+.obsidian/cache
+
+# Obsidian Workspace (speichert offene Fenster/Tabs)
+.obsidian/workspace.json
