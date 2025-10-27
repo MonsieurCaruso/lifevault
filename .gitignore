@@ -1,8 +1,22 @@
-# macOS Systemdatei
-.DS_Store
+# Obsidian Git Plugin (nur Plugin-Metadaten, keine Inhalte)
+.obsidian/plugins/obsidian-git/data.json
 
-# Obsidian Cache
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# Obsidian Caches
+.obsidian/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
 .obsidian/cache
 
-# Obsidian Workspace (speichert offene Fenster/Tabs)
-.obsidian/workspace.json
+# Logs & Temp
+*.log
+*.tmp
+*.bak
+
+# Node & Python Artefakte
+node_modules/
+__pycache__/
